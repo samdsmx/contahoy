@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ContaHoy",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 50,
     "versionPublish": "4.2.3",
@@ -45,7 +45,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "ContaHoy",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -929,9 +929,9 @@
         }
       ]
     },
-    "page1.html": {
+    "servicios.html": {
       "settings": {
-        "meta_descr": "Web Page Maker Description",
+        "meta_descr": "Nuestros servicios",
         "title": "Servicios",
         "order": 2
       },
@@ -1480,9 +1480,9 @@
         }
       ]
     },
-    "page2.html": {
+    "about.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
+        "meta_descr": "Acerca de nosotros",
         "title": "Acerca de",
         "order": 1
       },
